@@ -1,6 +1,6 @@
 # k-means-clustering-Flask
 
-The Titanic data set: 
+The Titanic data set cna be found in the below link: 
 biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls 
 
 lists the passengers and information about them on the Titanic (when it sank). 
